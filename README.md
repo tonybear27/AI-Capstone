@@ -9,7 +9,7 @@
 * HW2 Report: 12 %
 * Final Project Presentation (by instructor): 11%
 * Final Project Presentation (peer evaluation; average point * 20): 11%
-* Participation in project presentation peer evaluation: 1%
+* Participation in Project Presentation Peer Evaluation: 1%
 * Final Project Written Report: 16%
 * Short Essay: 4%
 * Final Exam: 20% 
